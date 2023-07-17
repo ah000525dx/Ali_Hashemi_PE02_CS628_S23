@@ -1,0 +1,1 @@
+This programming experience focused heavily on the fundamentals of react, HTML and CSS. The drop-down menu allows a user to select from various different genres and have movies selected based on the genre. The most challenging part of the project is linking the drop down to the different selection. 
